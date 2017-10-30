@@ -1,7 +1,7 @@
-# codigo
-Código de conducta de nuestra comunidad
+# :green_book:Código
+> Código de conducta de nuestra comunidad
 
-No hostiguemos a la gente. Seamos educados y gentiles. Respetemos al otro.
+### No hostiguemos a la gente. Seamos educados y gentiles. Respetemos al otro.
 
 Se requiere que todos los asistentes, sponsors (si los hay), colaboradores y cualquier otra persona que forme parte de Devs4Good BA de alguna manera, cumplan con el siguiente código de conducta. Los organizadores harán regir este código durante todo el evento.
 
@@ -19,6 +19,6 @@ Si algún participante se ve envuelto en un comportamiento de acoso, los organiz
 
 Si estás siendo víctima de algún tipo de acoso, ves a alguien que lo está o tenés alguna otra duda o problema al respecto, por favor contactate con los organizadores.
 
-Esperamos que todos los participantes estén al tanto, cumplan y hagan cumplir estas normas.
+### Esperamos que todos los participantes estén al tanto, cumplan y hagan cumplir estas normas.
 
-Basado parcialmente en los códigos de NodeSchool BA, LinuxChix Argentina y Free Code Camp BA. 
+Basado parcialmente en los códigos de **[`NodeSchool BA`](https://github.com/nodeschool/buenosaires/blob/master/codigodeconducta.md)**, **[`LinuxChix Argentina`](http://www.linuxchixar.org/sobre-nosotros/codigo-de-conducta/)** y **[`FreeCodeCamp BA`](https://github.com/FreeCodeCampBA/codigo#green_book-código-de-conducta)**
