@@ -17,7 +17,7 @@ Los participantes a los que se les solicite detener algunas de estas conductas, 
 
 Si algún participante se ve envuelto en un comportamiento de acoso, los organizadores podrán tomar acciones que crean pertinentes, desde advertencias al ofensor, hasta su expulsión, tanto del encuentro como de la comunidad en todos sus ámbitos.
 
-Si estás siendo víctima de algún tipo de acoso, ves a alguien que lo está o tenés alguna otra duda o problema al respecto, por favor contactate con los organizadores.
+Si estás siendo víctima de algún tipo de acoso, ves a alguien que lo está o tenés alguna otra duda o problema al respecto, por favor contactate con los **[organizadores](https://github.com/Devs4good/quick-start/blob/master/README.md#organizadores)**.
 
 ### Esperamos que todos los participantes estén al tanto, cumplan y hagan cumplir estas normas.
 
