@@ -1,4 +1,4 @@
-# :green_book:Código
+# :green_book: Código
 > Código de conducta de nuestra comunidad
 
 ### No hostiguemos a la gente. Seamos educados y gentiles. Respetemos al otro.
